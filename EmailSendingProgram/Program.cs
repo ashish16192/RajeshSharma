@@ -8,7 +8,7 @@ class Program
     {
         // Sender's email address and credentials
         string senderEmail = "garg16192@gmail.com";
-        string senderPassword = "Ashi@1234";
+        string senderPassword = "";
 
         // Recipient's email address
         string recipientEmail = "harshkumar@sourcemash.com";
