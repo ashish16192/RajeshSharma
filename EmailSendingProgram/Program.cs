@@ -8,10 +8,10 @@ class Program
     {
         // Sender's email address and credentials
         string senderEmail = "garg16192@gmail.com";
-        string senderPassword = "";
+        string senderPassword = "@shi*963.-+";
 
         // Recipient's email address
-        string recipientEmail = "harshkumar@sourcemash.com";
+        string recipientEmail = "princebarpagga@gmail.com";
 
         // Create a new MailMessage
         MailMessage mail = new MailMessage(senderEmail, recipientEmail);
@@ -21,7 +21,7 @@ class Program
         mail.Body = "This is the email body.";
 
         // Create a new SmtpClient (for sending the email)
-        SmtpClient smtpClient = new SmtpClient("smtp.outlook.com");
+        SmtpClient smtpClient = new SmtpClient("smtp.gmail.com");
 
         // Set the SMTP client's credentials (sender's email and password)
         smtpClient.Credentials = new NetworkCredential(senderEmail, senderPassword);

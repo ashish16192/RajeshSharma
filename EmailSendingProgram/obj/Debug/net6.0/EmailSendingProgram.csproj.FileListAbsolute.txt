@@ -12,3 +12,17 @@ G:\C#2022\EmailSendingProgram\EmailSendingProgram\obj\Debug\net6.0\refint\EmailS
 G:\C#2022\EmailSendingProgram\EmailSendingProgram\obj\Debug\net6.0\EmailSendingProgram.pdb
 G:\C#2022\EmailSendingProgram\EmailSendingProgram\obj\Debug\net6.0\EmailSendingProgram.genruntimeconfig.cache
 G:\C#2022\EmailSendingProgram\EmailSendingProgram\obj\Debug\net6.0\ref\EmailSendingProgram.dll
+G:\C#2022\RajeshSharmaSendingCode\RajeshSharma\EmailSendingProgram\bin\Debug\net6.0\EmailSendingProgram.exe
+G:\C#2022\RajeshSharmaSendingCode\RajeshSharma\EmailSendingProgram\bin\Debug\net6.0\EmailSendingProgram.deps.json
+G:\C#2022\RajeshSharmaSendingCode\RajeshSharma\EmailSendingProgram\bin\Debug\net6.0\EmailSendingProgram.runtimeconfig.json
+G:\C#2022\RajeshSharmaSendingCode\RajeshSharma\EmailSendingProgram\bin\Debug\net6.0\EmailSendingProgram.dll
+G:\C#2022\RajeshSharmaSendingCode\RajeshSharma\EmailSendingProgram\bin\Debug\net6.0\EmailSendingProgram.pdb
+G:\C#2022\RajeshSharmaSendingCode\RajeshSharma\EmailSendingProgram\obj\Debug\net6.0\EmailSendingProgram.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#2022\RajeshSharmaSendingCode\RajeshSharma\EmailSendingProgram\obj\Debug\net6.0\EmailSendingProgram.AssemblyInfoInputs.cache
+G:\C#2022\RajeshSharmaSendingCode\RajeshSharma\EmailSendingProgram\obj\Debug\net6.0\EmailSendingProgram.AssemblyInfo.cs
+G:\C#2022\RajeshSharmaSendingCode\RajeshSharma\EmailSendingProgram\obj\Debug\net6.0\EmailSendingProgram.csproj.CoreCompileInputs.cache
+G:\C#2022\RajeshSharmaSendingCode\RajeshSharma\EmailSendingProgram\obj\Debug\net6.0\EmailSendingProgram.dll
+G:\C#2022\RajeshSharmaSendingCode\RajeshSharma\EmailSendingProgram\obj\Debug\net6.0\refint\EmailSendingProgram.dll
+G:\C#2022\RajeshSharmaSendingCode\RajeshSharma\EmailSendingProgram\obj\Debug\net6.0\EmailSendingProgram.pdb
+G:\C#2022\RajeshSharmaSendingCode\RajeshSharma\EmailSendingProgram\obj\Debug\net6.0\EmailSendingProgram.genruntimeconfig.cache
+G:\C#2022\RajeshSharmaSendingCode\RajeshSharma\EmailSendingProgram\obj\Debug\net6.0\ref\EmailSendingProgram.dll
